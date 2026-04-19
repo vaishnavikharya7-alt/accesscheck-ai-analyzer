@@ -229,7 +229,7 @@ curl -O https:/vaishnavikharya7-al/raw.githubusercontent.com/E/accesscheck-ai-an
 # Open in browser
 open index.html
 
-Type any website URL (e.g., https://example.com)
+Type any website URL (e.g., https://accesscheck-ai-analyzer.vercel.app/)
 Click "Analyze" or press Enter
 
 // Example Fix 1: Add alt text
